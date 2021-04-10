@@ -16,5 +16,3 @@ Software : R-Studio, R language
 9. stats 4.0.5        ---> R stats packages
 10. utils 4.0.5       ---> The R utils Packages
 
-# Output
-Output is attached in a video file
