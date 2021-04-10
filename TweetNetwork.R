@@ -1,6 +1,6 @@
 # Read file
 print(getwd())
-setwd("C:/Users/aj250065/OneDrive - Teradata/Desktop/Check_Folders/R_Project/")
+setwd("../R_Project/")  # Set Your own directory where your project is present
 apple <- read.csv("apple.csv", header = T)
 
 # Build corpus
